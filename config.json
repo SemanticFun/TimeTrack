@@ -1,0 +1,16 @@
+{
+   "somer": { 
+	 "host": "host",
+	 "port": port,
+	 "user": "username",
+	 "pass": "password",
+	 "dbname": "somer"
+   },
+   "cluster": { 
+	 "host": "host",
+	 "port": port,
+	 "user": "username",
+	 "pass": "password",
+	 "dbname": "clusters"
+   }
+}
